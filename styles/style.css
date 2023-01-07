@@ -56,3 +56,68 @@
   margin-top: 220px;
   margin-right: 200px;
 }
+/* section 2 */
+.my-plans-div {
+  display: flex;
+  justify-content: center;
+}
+.failurs-title-1 {
+  font-size: 32px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.skill-web {
+  margin-left: 20px;
+  padding: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.skill-para {
+  font-size: 22px;
+  color: grey;
+}
+/* my section 3 */
+.my-section {
+  display: flex;
+  justify-content: center;
+  margin: 150px;
+  background-color: white;
+}
+.self-confidence {
+  width: 50%;
+}
+.my-section-title {
+  font-size: 32px;
+  font-weight: 50px;
+  text-align: center;
+  margin: 30px 300px;
+}
+.my-photo {
+  margin-left: 40px;
+}
+.span {
+  color: goldenrod;
+}
+/* section 4*/
+.awlays-positive {
+}
+.watch-img {
+  margin-left: 100px 200px;
+  background-color: hsla(8, 74%, 49%, 0.992);
+  width: 80%;
+  border-radius: 15px;
+
+  margin-left: 50px;
+}
+.watch-title {
+  font-size: 25px;
+  color: white;
+  padding: 20px;
+}
+.watch-div {
+  margin-left: 200px;
+}
+.watch-item {
+  margin-left: 300px;
+  margin-top: -200px;
+}
