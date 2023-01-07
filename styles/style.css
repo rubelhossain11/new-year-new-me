@@ -100,6 +100,18 @@
 }
 /* section 4*/
 .awlays-positive {
+  margin-bottom: 200px;
+}
+.btn-primary1 {
+  border: none;
+  border-radius: 5px;
+  color: orange;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 4px 2px;
+  background-color: white;
 }
 .watch-img {
   margin-left: 100px 200px;
@@ -120,4 +132,62 @@
 .watch-item {
   margin-left: 300px;
   margin-top: -200px;
+}
+/* section 5 future */
+/* .future {
+  display: flex;
+  margin: 20px;
+}
+
+.social-media-item {
+  display: flex;
+} */
+.social-media-items {
+  display: flex;
+}
+.future-section {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+}
+.btn-subscribe {
+  border: none;
+  border-radius: 5px;
+  color: orangered;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 4px 2px;
+  background-color: white;
+}
+.future-details {
+  margin: 150px 100px;
+}
+.button-details {
+  margin-top: 200px;
+  margin-right: 200px;
+}
+.future-title {
+  font-size: 35px;
+  margin-bottom: 20px;
+}
+.future-title-sub {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.placeholder {
+  width: 250px;
+  height: 40px;
+  border-radius: 10px;
+  padding: 10px 10px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border: 1px solid white;
+  margin-bottom: 20px;
+}
+.common {
+  margin-left: 10px;
 }
